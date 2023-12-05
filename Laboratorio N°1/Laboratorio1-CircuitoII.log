@@ -1,0 +1,121 @@
+Circuit: * C:\Users\Usuario\Desktop\SintesisDeRedesActivasGit\Laboratorio N°1\Laboratorio1-CircuitoII.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.02519
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0208333
+Gmin = 1.01055
+vernier = 0.0104167
+vernier = 0.00520833
+vernier = 0.00260417
+vernier = 0.00130208
+Gmin = 1.00011
+vernier = 0.000651042
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 88.6364%
+Source Step = 89.9976%
+Source Step = 90.0243%
+Source Step = 90.0539%
+Source Step = 90.0835%
+Source Step = 90.113%
+Source Step = 90.1426%
+vernier = 0.00146484
+Source Step = 90.1752%
+Source Step = 90.2196%
+Source Step = 90.264%
+Source Step = 90.3084%
+Source Step = 90.3527%
+vernier = 0.00219727
+Source Step = 90.3994%
+Source Step = 90.4659%
+Source Step = 90.5325%
+Source Step = 90.5991%
+Source Step = 90.6657%
+Source Step = 90.7323%
+vernier = 0.0032959
+Source Step = 90.8321%
+Source Step = 90.932%
+Source Step = 91.0319%
+Source Step = 91.1318%
+Source Step = 91.2317%
+vernier = 0.00494385
+Source Step = 91.3765%
+Source Step = 91.5263%
+Source Step = 91.6761%
+Source Step = 91.8259%
+Source Step = 91.9757%
+vernier = 0.00741577
+Source Step = 92.1855%
+Source Step = 92.4102%
+Source Step = 92.6349%
+Source Step = 92.8596%
+Source Step = 93.0843%
+vernier = 0.0111237
+Source Step = 93.3877%
+Source Step = 93.7248%
+Source Step = 94.0619%
+Source Step = 94.399%
+Source Step = 94.736%
+vernier = 0.0166855
+Source Step = 95.1742%
+Source Step = 95.6799%
+Source Step = 96.1855%
+Source Step = 96.6911%
+Source Step = 97.1967%
+vernier = 0.0250282
+Source Step = 97.8288%
+Source Step = 98.5872%
+Source Step = 99.3456%
+Source stepping succeeded in finding the operating point.
+
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:  d:u1:e_n:2  d:u1:e_n:1  d:u1:i_np:2  d:u1:i_np:1  d:u1:i_nn:2
+Model: u1:e_n:dvn  u1:e_n:dvn  u1:i_np:dvnf u1:i_np:dvnf u1:i_nn:dvnf
+Id:      1.00e-02    1.00e-02    1.00e-02     1.00e-02     1.00e-02
+Vd:      8.34e-01    8.34e-01    8.34e-01     8.34e-01     8.34e-01
+Req:     2.59e+00    2.59e+00    2.59e+00     2.59e+00     2.59e+00
+CAP:     0.00e+00    0.00e+00    0.00e+00     0.00e+00     0.00e+00
+
+Name:  d:u1:i_nn:1
+Model: u1:i_nn:dvnf
+Id:      1.00e-02
+Vd:      8.34e-01
+Req:     2.59e+00
+CAP:     0.00e+00
+
+
+
+Date: Tue Dec 05 13:09:33 2023
+Total elapsed time: 0.669 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 5037
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 140
+fillins = 339
+solver = Normal
+Thread vector: 7.2/5.2[3] 0.0/0.0[0] 3.9/1.8[3] 0.3/0.5[1]  2592/500
+Matrix Compiler1: 23.04 KB object code size
+Matrix Compiler2: 17.46 KB object code size  1.4/2.0/[0.7]
+

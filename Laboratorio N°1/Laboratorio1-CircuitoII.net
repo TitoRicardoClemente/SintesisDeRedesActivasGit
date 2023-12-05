@@ -1,0 +1,14 @@
+* C:\Users\Usuario\Desktop\SintesisDeRedesActivasGit\Laboratorio N°1\Laboratorio1-CircuitoII.asc
+R1 N001 N002 100
+R2 N001 N003 10k
+R4 N003 0 100k
+R3 N002 Vin 1k
+RL 0 N002 1k
+V1 Vin 0 -1
+V2 VCC 0 10
+V3 0 VEE 10
+XU1 N002 N003 VCC VEE N001 LMX24_LM2902
+.op
+.include C:\Users\Usuario\Desktop\SintesisDeRedesActivasGit\Laboratorio N°1\sglm009c\lmx24_lm2902.lib
+.backanno
+.end

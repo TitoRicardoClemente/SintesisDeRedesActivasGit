@@ -1,0 +1,50 @@
+Circuit: * C:\Users\Usuario\Desktop\SintesisDeRedesActivasGit\Laboratorio N°1\Laboratorio1-CircuitoIII.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+vernier = 0.25
+Gmin = 8.55108e-006
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 3.6295e-006
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 9.64496e-007
+vernier = 1
+Gmin = 1.28327e-007
+Gmin = 1.3779e-008
+Gmin = 1.47951e-009
+Gmin = 1.58861e-010
+Gmin = 1.70576e-011
+Gmin = 1.83154e-012
+Gmin = 1.9666e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Dec 04 19:01:23 2023
+Total elapsed time: 8.949 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 441834
+traniter = 441107
+tranpoints = 115557
+accept = 85810
+rejected = 29747
+matrix size = 275
+fillins = 317
+solver = Normal
+Thread vector: 20.2/8.4[6] 5.4/2.2[6] 10.2/4.6[6] 0.9/3.8[1]  2592/500
+Matrix Compiler1: 31.94 KB object code size  8.2/3.8/[1.6]
+Matrix Compiler2: 28.08 KB object code size  3.2/4.4/[1.5]
+

@@ -1,0 +1,6 @@
+.SUBCKT TL072 1 2 3 4 5
+* Pines: IN+ IN- V+ V- OUT
+* Modelo simplificado (para simulación básica)
+R1 1 2 1E12
+E1 5 0 1 2 1E6
+.ENDS
